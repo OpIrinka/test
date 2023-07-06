@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T20:09:45.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.4.674 Yowser/2.5 Safari/537.36" etag="GU36fz-o7Pv_odZioUUW" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T20:23:50.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.4.674 Yowser/2.5 Safari/537.36" etag="1IhWj_n2bWzT_VKvilvi" version="21.0.2" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1002" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,41 +7,38 @@
         <mxCell id="57fe6abec08f04cb-1" value="Посуда готова" style="shape=step;whiteSpace=wrap;html=1;fontSize=15;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="200" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-2" value="Приготовление бульона" style="shape=step;whiteSpace=wrap;html=1;fontSize=15;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-2" value="Бульон&lt;br&gt;готовится" style="shape=step;whiteSpace=wrap;html=1;fontSize=15;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;spacingLeft=11;" parent="1" vertex="1">
           <mxGeometry x="241" y="200" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-3" value="Овощи&lt;br&gt;нарезаны" style="shape=step;whiteSpace=wrap;html=1;fontSize=15;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="373" y="200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-4" value="July" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="513" y="200" width="160" height="60" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Овощи добавлены в бульон&lt;/span&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=15;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;verticalAlign=middle;align=center;spacingTop=0;spacingLeft=18;spacingBottom=0;spacingRight=10;" parent="1" vertex="1">
+          <mxGeometry x="513" y="200" width="158" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-5" value="Sep" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="690" y="180" width="170" height="80" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-5" value="Борщ&lt;br&gt;томится" style="shape=step;whiteSpace=wrap;html=1;fontSize=15;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="651" y="200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-6" value="Nov" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="180" width="170" height="80" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-6" value="Борщ&lt;br style=&quot;font-size: 15px;&quot;&gt;готов" style="shape=step;whiteSpace=wrap;html=1;fontSize=15;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="790" y="200" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-7" value="борщеварение" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="120" y="110" width="860" height="60" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-7" value="Готовим борщ" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=36;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="90" y="130" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-8" value="1. Мясо вымыто&lt;br&gt;2. Мясо сложено в кастрюлю&lt;br&gt;3. Мясо залито водой&lt;br&gt;4. Кастрюля стоит на плите&lt;br&gt;5. Плита работает" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="280" width="140" height="470" as="geometry" />
+          <mxGeometry x="101" y="270" width="140" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-9" value="1. Бульон кипит&lt;br&gt;2. Бульон посолен&lt;br&gt;3. Овощи вымыты&lt;br&gt;4. Овощи очищены&lt;br&gt;5. Картофель нарезан&lt;br&gt;6. Морковь нарезана&lt;br&gt;7. Лук нарезан&lt;br&gt;8. Свекла нарезана&lt;br&gt;9. Капуста нарезана&lt;br&gt;10. Зелень нарезана" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="246" y="280" width="140" height="470" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-9" value="1. Бульон кипит&lt;br&gt;2. Бульон посолен&lt;br&gt;3. Овощи вымыты&lt;br&gt;4. Овощи очищены&lt;br&gt;5. Картофель нарезан&lt;br&gt;6. Морковь нарезана&lt;br&gt;7. Лук нарезан&lt;br&gt;8. Свекла нарезана&lt;br&gt;9. Капуста нарезана&lt;br&gt;10. Зелень нарезана&lt;br&gt;11. Томатная паста открыта" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="246" y="280" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-10" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="373" y="280" width="140" height="470" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-10" value="1. Картофель добавлен к бульону&lt;br&gt;2. Свекла добавлена к бульону&lt;br&gt;3. Морковь добавлена к бульону&lt;br&gt;4. Лук добавлен к бульону&lt;br&gt;5. Капуста добавлена к бульону&lt;br&gt;6. Томатная паста добавлена в бульон&lt;br&gt;7. Зелень добавлена в бульон" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="373" y="280" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-11" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="513" y="280" width="140" height="470" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-11" value="1. Плита работает на минимальном режиме&lt;br&gt;2. Кастрюля накрыта крышкой" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="513" y="280" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-12" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="700" y="280" width="140" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="57fe6abec08f04cb-13" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="855" y="280" width="140" height="470" as="geometry" />
+        <mxCell id="57fe6abec08f04cb-12" value="1. Плита выключена" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="280" width="140" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
